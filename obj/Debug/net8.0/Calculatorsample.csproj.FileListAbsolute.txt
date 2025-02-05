@@ -1,0 +1,14 @@
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\bin\Debug\net8.0\Calculatorsample.exe
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\bin\Debug\net8.0\Calculatorsample.deps.json
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\bin\Debug\net8.0\Calculatorsample.runtimeconfig.json
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\bin\Debug\net8.0\Calculatorsample.dll
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\bin\Debug\net8.0\Calculatorsample.pdb
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\obj\Debug\net8.0\Calculatorsample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\obj\Debug\net8.0\Calculatorsample.AssemblyInfoInputs.cache
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\obj\Debug\net8.0\Calculatorsample.AssemblyInfo.cs
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\obj\Debug\net8.0\Calculatorsample.csproj.CoreCompileInputs.cache
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\obj\Debug\net8.0\Calculatorsample.dll
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\obj\Debug\net8.0\refint\Calculatorsample.dll
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\obj\Debug\net8.0\Calculatorsample.pdb
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\obj\Debug\net8.0\Calculatorsample.genruntimeconfig.cache
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\Calculatorsample\obj\Debug\net8.0\ref\Calculatorsample.dll
